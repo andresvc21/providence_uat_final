@@ -1,0 +1,268 @@
+---
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422716254.ade3989c94164841ae42bad4aaf9ac77.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422716254.ade3989c94164841ae42bad4aaf9ac77.json
+  id: 1113eea7-2b45-4577-b249-d7b026a8a2c0
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422717897.74030c23064d4b7b89a9ffffcd09681d.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422717897.74030c23064d4b7b89a9ffffcd09681d.json
+  id: ce0aa760-c61b-4431-b948-22fbdf0ded8d
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422719565.2d866d21ecff4930ac458631e776e0e9.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422719565.2d866d21ecff4930ac458631e776e0e9.json
+  id: e3e93e65-ebfb-4ef5-92be-68ff4498884a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422721238.b61f1fe4275b48eeb5dd26c8c069cde9.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422721238.b61f1fe4275b48eeb5dd26c8c069cde9.json
+  id: 5f430fa4-2b51-49a9-bb9a-3e02ed4044b4
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: agent
+  - utterance: agent
+  - utterance: ''
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422723135.760436cf2dce4bbd9234a06cf5c20fe5.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422723135.760436cf2dce4bbd9234a06cf5c20fe5.json
+  id: c6ff2022-62bd-4438-80b7-44ac15ba6ab8
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: agent
+  - utterance: agent
+  - utterance: ''
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422724866.763be16c0343426ba59baeeca5b30e67.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422724866.763be16c0343426ba59baeeca5b30e67.json
+  id: 38e2d2e3-ec37-4a61-999d-a0bbcdba798a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: agent
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422726630.c5f5cd62ef474816b347c2b2e0b540f7.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422726630.c5f5cd62ef474816b347c2b2e0b540f7.json
+  id: a9fa2598-1cf4-465c-acd1-9d1305fd29b5
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[NO INPUT]'
+  - utterance: agent
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[nomatch] [NO MATCH]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422728411.4fbf87cb532040bf92e7d5b51daec221.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422728411.4fbf87cb532040bf92e7d5b51daec221.json
+  id: e625686a-2764-4b71-8357-a6290d612d8b
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422728785.04d6d23f23b448ada2292a7bd83ba8d8.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422728785.04d6d23f23b448ada2292a7bd83ba8d8.json
+  id: e09106fe-1735-4e41-969c-8bf7c563d80a
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 9/20/1938
+  - utterance: carl gandy
+  - utterance: 'yes'
+  - utterance: '[HANG UP]'
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422731867.39ff8d9126914a18908274019186d623.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422731867.39ff8d9126914a18908274019186d623.json
+  id: 95f6adb6-7ead-44e7-8774-a5349691d489
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 9/20/1938
+  - utterance: carl gandy
+  - utterance: 'no'
+  - utterance: '[HANG UP]'
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422734607.f018ee2004904c718dfdcdbfa0021a96.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422734607.f018ee2004904c718dfdcdbfa0021a96.json
+  id: 6516a2ac-7ec7-4b0f-b20c-7f0399f51025
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 9/20/1938
+  - utterance: carl gandy
+  - utterance: agent
+  - utterance: agent
+  - utterance: ''
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422740117.6c3aff6ceb374f398b85093076d37aff.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422740117.6c3aff6ceb374f398b85093076d37aff.json
+  id: dc3d0869-2e65-45e3-81a0-74b75d747d60
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422740490.9397204224d3476a9d1516f5a914b746.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422740490.9397204224d3476a9d1516f5a914b746.json
+  id: cd3fa2a5-1b08-4eaf-ade6-1f9ab8451ae8
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 9/20/1938
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711422743455.53e5c37650344856bb6061ff6ad0b086.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711422743455.53e5c37650344856bb6061ff6ad0b086.json
+  id: 41350c4c-8945-4f0c-a875-442090312107
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: provider
+  - utterance: 9/20/1938
+  - utterance: banana
+  - utterance: 'yes'
+  - utterance: banana
+  - utterance: '[HANG UP]'
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711423367794.e0c5187ad2314da6995e44c87025d9f9.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711423367794.e0c5187ad2314da6995e44c87025d9f9.json
+  id: 5d032bc1-6abb-4538-a00a-e2dd3136bbca
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: jul 1 1975
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '1272'
+  - utterance: crisis
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711423422960.dedcbb39d7fb4559b61483dee2c35d4d.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711423422960.dedcbb39d7fb4559b61483dee2c35d4d.json
+  id: 25f2457b-6c8e-44ac-9501-fa28c9a4a629
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: memeber [NO MATCH]
+  - utterance: member
+  - utterance: jul 1 1975
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '1272'
+  - utterance: '[NO INPUT]'
+  - utterance: '[NO INPUT]'
+  - utterance: ''
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711423498855.65c0d58cde4e40ebab239a9762b3ce36.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711423498855.65c0d58cde4e40ebab239a9762b3ce36.json
+  id: fc243f5f-7973-4972-8ebd-1c5752e97614
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: july 1 1975
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '1272'
+  - utterance: eligibility
+  - utterance: ''
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711423580627.42ec1be926e3481bba050ed586bd23b9.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711423580627.42ec1be926e3481bba050ed586bd23b9.json
+  id: e3a7150c-eb44-42cf-9883-9cdb17815746
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: ju 1 1975
+  - utterance: july 1 1975
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '11292538200'
+  - utterance: i want to order a card
+  - utterance: ''
+  - utterance: '[HANG UP]'
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711423674812.5b73ea7d2ef84d52bc6890a2679f2435.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711423674812.5b73ea7d2ef84d52bc6890a2679f2435.json
+  id: 398bf852-3034-4357-a92c-4ef462f4d041
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: memeber [NO MATCH]
+  - utterance: member
+  - utterance: july 1 1975
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '11292538200'
+  - utterance: agent
+- description: Test case for c16ee145cba518c34dd0696fe75c740407db19b4.1711423731410.32609e89a39f449facea1da13e27dd1d.json
+  golden_dialog: c16ee145cba518c34dd0696fe75c740407db19b4.1711423731410.32609e89a39f449facea1da13e27dd1d.json
+  id: 268186dd-7e47-4945-a375-777a68008850
+  session_channel: web-chat
+  utterances:
+  - utterance: ''
+  - utterance: ''
+  - utterance: ''
+  - utterance: member
+  - utterance: july 1 1975
+  - utterance: damon alonso
+  - utterance: 'yes'
+  - utterance: '11292538200'
+  - utterance: hours
